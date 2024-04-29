@@ -14,4 +14,8 @@ Take snapshot at the end of week and retain for one month
 Take snapshot at the end of month and keep for 12 month
 Take snapshot at the end of year and retain for 7 years
 
+using Time stamp
+If snapshot has not been used in 30 days or more, delete it
+if a volume is not attached to any instance and has not been used in 30 days archive it
+
 
